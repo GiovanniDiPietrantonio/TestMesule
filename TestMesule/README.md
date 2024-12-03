@@ -1,0 +1,6 @@
+- install~update cli appium -> `npm install --location=global appium`
+- check version appium cli -> `npm list appium -g`
+- get list all appium driver installed -> `appium driver list`
+- install appium flutter driver -> `appium driver install --source=npm appium-flutter-driver`
+- uninstall appium flutter driver -> `appium driver uninstall flutter`
+- 
